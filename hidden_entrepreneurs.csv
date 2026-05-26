@@ -1,0 +1,4 @@
+card_number,bank_name,card_tier,commercial_score,risk_tier,predicted_commercial,total_txn_count,total_spend_kzt,avg_txn_amount,unique_merchants,unique_mccs,pct_business_hour,activity_regularity,pct_business_mcc,pct_offline,pct_round_amounts,cv_txn_amount
+5176513298758250,Kaspi,Standard,0.9868,CONFIRMED,1,54,4746277,87894,14,14,0.537,0.2733,0.2407,0.0,0.0,1.1923
+5402334789365653,BCC Bank,Affluent,0.8714,HIGH,1,64,4555403,71178,30,21,0.5781,0.2978,0.125,0.0,0.0,1.3055
+5176510595392429,Kaspi,Standard,0.4906,LOW,1,42,9311210,221695,5,5,0.381,0.2303,0.1667,0.0,0.0,0.8684

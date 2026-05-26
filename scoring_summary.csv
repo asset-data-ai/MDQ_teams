@@ -1,0 +1,4 @@
+risk_tier,card_count,avg_score,avg_total_spend_kzt,avg_txn_count,avg_unique_merchants,flagged_count,recommended_action
+CONFIRMED,1,0.99,4746277.0,54.0,14.0,1,Direct sales outreach — convert to business card immediately
+HIGH,1,0.87,4555403.0,64.0,30.0,1,Priority CRM campaign — personalised business product offer
+LOW,79998,0.0,6642561.5,122.91,36.75,1,No action — monitor only
